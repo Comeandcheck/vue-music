@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "guides.enabled": false,
+    "workbench.colorTheme": "Monokai",
+    "sublimeTextKeymap.promptV3Features": true,
+    "material-icon-theme.showUpdateMessage": false,
+    "window.zoomLevel": 1,
+    "vetur.validation.template": false,
+    // 以下为stylus配置
+    "stylusSupremacy.insertSemicolons": false, // 是否插入分好
+    "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "vsicons.projectDetection.autoReload": true
+}
